@@ -29,6 +29,13 @@ Company management application with features:
 
 Commands to install and run the project
 
+Create .env file:
+- REACT_APP_API_URL=YOUR_API_URL
+- REACT_APP_GOOGLE_CLIENT_ID=YOUR_GOOGLE_CLIENT_ID
+
+- Replace YOUR_API_URL with your base API url
+- Replace YOUR_GOOGLE_CLIENT_ID with your Google Client ID generated with Google Developer Console.
+
 1. npm install
     - Install required packages
 2. npm start
